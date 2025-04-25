@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+		<section name="NewWizard.dialogBounds">
+		</section>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Code\Java\Spring boot\SpringBoot30Lessons\06DataAnalysis\peopledata"/>
+			<item value="D:\Code\Java\Spring boot\SpringBoot30Lessons\05OnTap\stream"/>
+			<item value="D:\Code\Java\Spring boot\SpringBoot30Lessons\04DataStructureReview\dataanalysis"/>
+			<item value="D:\Code\Java\Spring boot\SpringBoot30Lessons\04DataStructureReview\Basic"/>
+			<item value="D:\Code\Java\Spring boot\SpringBoot30Lessons\03ParseJSON\parsejson"/>
+			<item value="D:\Code\Java\Spring boot\SpringBoot30Lessons\03ParseJSON\bookstore"/>
+			<item value="D:\Code\Java\Spring boot\SpringBoot30Lessons\02ClientSideRender\book"/>
+			<item value="D:\Code\Web\react-product-app\backend"/>
+			<item value="D:\Code\Web\-student-management-system-react-spring-boot\spring-boot-back-end"/>
+			<item value="D:\Code\Web\springboot-react\springboot-backend"/>
+			<item value="D:\Code\Java\Spring boot\spring-boot-3-rest-api-example"/>
+			<item value="D:\Code\Java\Spring boot\spring-mvc-tutorial\springmvc5-helloworld-exmaple"/>
+			<item value="D:\Code\Java\Spring boot\hello world spring"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="246"/>
+			<item key="DIALOG_Y_ORIGIN" value="164"/>
+			<item key="DIALOG_WIDTH" value="935"/>
+			<item key="DIALOG_HEIGHT" value="726"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="662"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
